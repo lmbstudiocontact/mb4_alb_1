@@ -1,46 +1,7 @@
 [
   {
-    "title": "Mickey Cartoon_L4",
-    "link_thumb": "https://live.staticflickr.com/65535/51682194675_2755339f33_o.gif",
-    "id_album": "1680949825",
-    "total": 22,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1680949825_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Dragon Art_L6",
-    "link_thumb": "https://live.staticflickr.com/65535/51676408914_f34ee9ff5f_o.gif",
-    "id_album": "2059014003",
-    "total": 13,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_2059014003_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Smurf Houses Cartoon_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51689368563_bff86c3224_o.gif",
-    "id_album": "228264856",
-    "total": 4,
-    "size_max_detail_page": 1,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_228264856_index_0.json"
-      }
-    ]
-  },
-  {
     "title": "Boss Baby Cartoon_L2",
-    "link_thumb": "https://live.staticflickr.com/65535/51673362298_1773cb7a4a_o.gif",
+    "link_thumb": "https://live.staticflickr.com/65535/51787161513_414f602012_o.gif",
     "id_album": "158762702",
     "total": 16,
     "size_max_detail_page": 1,
@@ -52,88 +13,135 @@
     ]
   },
   {
-    "title": "Donald Duck Cartoon_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51675526966_d68fcddf35_o.gif",
-    "id_album": "-1917621485",
-    "total": 4,
-    "size_max_detail_page": 1,
+    "title": "Disney Cartoon_L5",
+    "link_thumb": "https://live.staticflickr.com/65535/51787203843_d5de06e8d9_o.gif",
+    "id_album": "-779586266",
+    "total": 54,
+    "size_max_detail_page": 2,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1917621485_index_0.json"
-      }
-    ]
-  },
-  {
-    "title": "Pokmon Anime_L1",
-    "link_thumb": "https://live.staticflickr.com/65535/51686807879_743d60e9c8_o.gif",
-    "id_album": "-555824144",
-    "total": 108,
-    "size_max_detail_page": 3,
-    "list_detail": [
-      {
-        "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-555824144_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-779586266_index_0.json"
       },
       {
         "index_page": 1,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-555824144_index_1.json"
-      },
-      {
-        "index_page": 2,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-555824144_index_2.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-779586266_index_1.json"
       }
     ]
   },
   {
-    "title": "Kung Fu Panda_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51680037017_3a4259247c_o.gif",
-    "id_album": "1222783554",
-    "total": 2,
+    "title": "Buddhist Terms_L10",
+    "link_thumb": "https://live.staticflickr.com/65535/51787159873_7d1659465b_o.gif",
+    "id_album": "-1095397368",
+    "total": 13,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1222783554_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1095397368_index_0.json"
       }
     ]
   },
   {
-    "title": "Ghibli Anime_L5",
-    "link_thumb": "https://live.staticflickr.com/65535/51678971534_3274809d99_o.gif",
-    "id_album": "-749595043",
+    "title": "Ghibli Anime_L4",
+    "link_thumb": "https://live.staticflickr.com/65535/51786146882_5e7356b5c4_o.gif",
+    "id_album": "-749595044",
     "total": 17,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-749595043_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-749595044_index_0.json"
       }
     ]
   },
   {
-    "title": "Boku No Hero Academia Anime_L7",
-    "link_thumb": "https://live.staticflickr.com/65535/51673289033_38cb0caa85_o.gif",
-    "id_album": "197312545",
-    "total": 19,
-    "size_max_detail_page": 1,
+    "title": "One Piece Anime_L7",
+    "link_thumb": "https://live.staticflickr.com/65535/51787312368_0cc72b1527_o.gif",
+    "id_album": "1351456610",
+    "total": 135,
+    "size_max_detail_page": 3,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_197312545_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1351456610_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1351456610_index_1.json"
+      },
+      {
+        "index_page": 2,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_1351456610_index_2.json"
       }
     ]
   },
   {
-    "title": "Boku No Hero Academia Anime_L3",
-    "link_thumb": "https://live.staticflickr.com/65535/51673652179_e5d8b10e25_o.gif",
-    "id_album": "197312541",
-    "total": 19,
+    "title": "Language Italian",
+    "link_thumb": "https://live.staticflickr.com/65535/51787146023_0f542069e3_o.gif",
+    "id_album": "-1675477192",
+    "total": 37,
     "size_max_detail_page": 1,
     "list_detail": [
       {
         "index_page": 0,
-        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_197312541_index_0.json"
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1675477192_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Language Hungarian",
+    "link_thumb": "https://live.staticflickr.com/65535/51787765965_a44fc6489b_o.gif",
+    "id_album": "-1762931209",
+    "total": 37,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1762931209_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "Disney Cartoon_L8",
+    "link_thumb": "https://live.staticflickr.com/65535/51787194423_83d4221b9d_o.gif",
+    "id_album": "-779586263",
+    "total": 54,
+    "size_max_detail_page": 2,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-779586263_index_0.json"
+      },
+      {
+        "index_page": 1,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-779586263_index_1.json"
+      }
+    ]
+  },
+  {
+    "title": "Donald Duck Cartoon_L10",
+    "link_thumb": "https://live.staticflickr.com/65535/51786125552_5b63fd743f_o.gif",
+    "id_album": "683276157",
+    "total": 4,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_683276157_index_0.json"
+      }
+    ]
+  },
+  {
+    "title": "How to Train Your Dragon Cartoon",
+    "link_thumb": "https://live.staticflickr.com/65535/51787754060_70095a1707_o.gif",
+    "id_album": "-1112647647",
+    "total": 7,
+    "size_max_detail_page": 1,
+    "list_detail": [
+      {
+        "index_page": 0,
+        "link_page": "https://github.com/lmbstudiocontact/mb4_dt_alb_0/raw/main/14132021_dta_-1112647647_index_0.json"
       }
     ]
   }
